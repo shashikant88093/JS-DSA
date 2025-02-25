@@ -15,4 +15,4 @@ function twoSum(nums,target){
 }
 let arr = [2,7,11,15]
 
-console.log(twoSum(arr,9))
+console.log(twoSum(arr,9)) 
