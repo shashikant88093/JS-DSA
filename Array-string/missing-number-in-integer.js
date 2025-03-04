@@ -14,3 +14,5 @@ function missingNumber(nums){
 let arr =[3,0,1]
 
 console.log(missingNumber(arr))
+
+
