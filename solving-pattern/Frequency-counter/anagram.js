@@ -41,7 +41,7 @@ function validAngram(first, seacond) {
             lookup[letter] -= 1
         }
     }
-
+ return true
 }
 
 console.log(validAngram('aaz', 'aaz'))
