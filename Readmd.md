@@ -57,3 +57,6 @@
   4. Implement interpolation search.
   5. Find the Kth smallest element  in an array.
   6. Given an array of intergers, count the number of inversions it has. An inversion occurs when two elements in the array are out of order.
+
+
+[freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
