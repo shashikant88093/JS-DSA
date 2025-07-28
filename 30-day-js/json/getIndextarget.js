@@ -1,9 +1,9 @@
 
 
-function getIndex(arr, x) {
+function getIndex(arr, target) {
     let mapped = new Map()
     for (let i = 0; i < arr.length; i++) {
-        let comp = x - arr[i]
+        let comp = target - arr[i]
         if (mapped.has(comp)) {
             return [mapped.get(comp), i]
         }
