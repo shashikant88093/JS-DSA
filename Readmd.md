@@ -4,7 +4,7 @@
 
   1. Find the maximum sum subarray.
   2. Find all substring that are palindromes.
-  3. Implement the "two sum" problem.
+  3. Implement the "two sum" problem. 
   4. Implement Kadane's algorithm for maximum subarray sum.
   5. Find the missing number in an array of integers.
   6. Merge two sorted arrays into one sorted array.
